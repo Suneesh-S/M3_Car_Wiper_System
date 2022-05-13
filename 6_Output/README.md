@@ -3,7 +3,7 @@
 
 # Wiper status using LED
 ![image](https://github.com/Suneesh-S/M3_Car_Wiper_System/blob/97fa957c0b3b45f71ff9261d2357174ee924c5ab/6_Output/Speed1.png)
-![image]()
+![image](https://github.com/Suneesh-S/M3_Car_Wiper_System/blob/e0315199ee951e130ea7b0077a352e153e134202/6_Output/Speed2.png)
 ![image]()
 
 # ENGINE OFF STATE
