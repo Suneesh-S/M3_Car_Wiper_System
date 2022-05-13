@@ -150,13 +150,17 @@ void wiper_control(int Ticks){
 
 	  LED_ON(BLUE);
 	  LED_speed(Ticks);
+	  LED_OFF(BLUE);
 	  LED_ON(GREEN);
 	  LED_speed(Ticks);
+	  LED_OFF(GREEN);
 	  LED_ON(ORANGE);
 	  LED_speed(Ticks);
 	  LED_OFF(ORANGE);
+	  LED_ON(GREEN);
 	  LED_speed(Ticks);
 	  LED_OFF(GREEN);
+	  LED_ON(BLUE);
 	  LED_speed(Ticks);
 	  LED_OFF(BLUE);
 	  LED_speed(Ticks);
