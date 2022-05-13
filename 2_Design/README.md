@@ -12,5 +12,4 @@ Assume that the automobile is the microcontroller. If the button is hit, the fir
 
 # Flow Chart
 
-
-
+![image](https://github.com/Suneesh-S/M3_Car_Wiper_System/blob/1c2a5ba9d97d2adbd3feba2907c047a12b38be4d/2_Design/Untitled%20Diagram.drawio.png)
