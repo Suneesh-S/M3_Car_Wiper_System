@@ -9,10 +9,11 @@
 * From research,its bit hard to implement the car wiper system in computer without hardware components.So,instead of using motor and wiper arms,the leds of the stm32 discovery board is used to show the function of wiper.
 
 ## Features of STM32F407VG MICROCONTROLLER
-* This project has various features, like it can provide air circulating system inside the Kitchen 
-* It can reduce the temperature of the kitchen with automatic approach
-* It can sense the high rise of temperature and alarm the family
-* The cost of the system is less compares to the Electric Chimney
+* This mcu has various features, like it can provide Low-power operation
+* Up to 17 timers: up to twelve 16-bit and two 32-bit timers up to 168 MHz, each with up to 4 IC/OC/PWM
+
+## Defining Our System
+* According to WHO, more than 1.25 million people die every year because of road crashes and mostly in rainy seasons. People end up dying because of small mistakes. Here we have forwarded an attempt to reduce that number. The project is especially suited for car.
 
 
 ## SWOT ANALYSIS
@@ -45,10 +46,9 @@
 
 | ID | Description | Status (Implemented/Future)
 |:---:|:---:|:---:|
-|HLR-1| The Exhaust Fan shall be in OFF state till the temperature reaches 30oC |Implemented|
-|HLR-2| The Exhaust Fan shall be in ON state when the temperature reaches beyond 30oC. |Implemented|
-|HLR-3| The Alarm shall be in ON state when the temperature reaches beyond 70oC. |Implemented|
-|HLR-5| user shall be set the temperature at which the Fan operate. |Future|
+|HLR-1| User shall be able to select the different inputs the user need to get values when led blinks |Implemented|
+|HLR-2| user shall be able to get different speed |Implemented|
+|HLR-1| User shall be able to turn off the ignition LED |Implemented|
 
 
 
@@ -56,7 +56,6 @@
 
 | ID | Description | Status (Implemented/Future)
 |:---:|:---:|:---:|
-|LLR-1| Sensor shall able to sense the temperature. |Implemented|
-|LLR-2| User shall be able to see the temperature of the room. |Implemented|
-|LLR-3| System shall able to sense the rise of temperature and sound alarm |Implemented|
-|LLR-4| Motor shall vary the speed depends on the temperature to reduce the electricity bill|Future|
+|LLR-1| User shall be able to click the start button |Implemented|
+|LLR-2| User shall be able turn LED On |Implemented|
+
