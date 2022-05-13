@@ -1,1 +1,3 @@
+# Abstract
 
+A wiper is a vital component that cleans windscreen of a car. Previously, the wipers had to be manually activated by adjusting the frequency. The operation of increasing wiper speed is varied as a result of the outcomes. The project's purpose is to give automated transmission to older cars in order to improve their systems. wiping system, to improve the system by including a sensor and actuator, and to design a basic programme that could operate the system completely.The principle of operation of this proposed wiper system is similar to those of other conventional wipers now in use. Regardless, To remove water from the windscreen, this system will be upgraded to an automatic control system that will use a Peripheral Interface.
